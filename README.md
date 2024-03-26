@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jacinth54
+
+This is a test repo to play around with the various features of GitHub and practice with markdown
 
 <!--
 **jacinth54/jacinth54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
